@@ -1,0 +1,12 @@
+first declared bin function and calc function
+then starting from main
+takek size of array from user
+Entered numbers in array list
+passing all numbers one by one to bin function which will convert decimal to binary number
+bin function will take help of calc function to calculate size of array 
+then bin funxction will store remainder of number in array one by one
+then printing all modulus all together
+and this will repeat untill all decumal number converted to binary number.
+
+Thank You
+--- By Sahil Negi
